@@ -3,7 +3,7 @@
 ### My name is Guilherme Louro! I'm a Senior Software Engineer
 
 - 🏡 Brazilian, Based in Petrópolis, RJ
-- 💻 Senior Software Engineer at **[Telnyx](https://telnyx.com/)**
+- 💻 Senior Software Engineer at **[Appcues](https://appcues.com/)**
 - ⚛️ Instructor in **[Udemy](https://www.udemy.com/user/guilherme-louro/)**
 - 📝 [Resume](https://github.com/guilouro/resume/blob/master/README.md)
 
