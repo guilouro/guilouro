@@ -7,12 +7,17 @@
 - ⚛️ Instructor in **[Udemy](https://www.udemy.com/user/guilherme-louro/)**
 - 📝 [Resume](https://github.com/guilouro/resume/blob/master/README.md)
 
-<a href="https://twitter.com/guilhermelouro">
-  <img alt="Guilherme Louro | Twitter" width="22px" src="./assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/guilhermelouro/">
-  <img alt="Guilherme Louro Linkedin" width="22px" src="./assets/linkedin.svg" />
-</a>
+<div align="left">
+  <a href="https://twitter.com/guilhermelouro" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/guilhermelouro?style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/guilhermelouro/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-Guilherme%20Louro-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/guilouro" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/guilouro?style=social" />
+  </a>
+</div>
 
 <br />
 
@@ -47,6 +52,10 @@
         <p><small>Jest</small></p>
     </td>
     <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" width="50" />
+        <p><small>Tailwind CSS</small></p>
+    </td>
+    <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" />
         <p><small>IOS</small></p>
     </td>
@@ -66,7 +75,7 @@
         <p><small>Postgres</small></p>
     </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
         <p><small>MySQL</small></p>
     </td>
     <td align="center">
@@ -74,8 +83,12 @@
         <p><small>Docker</small></p>
     </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
         <p><small>AWS</small></p>
+    </td>
+    <td align="center">
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="50" />
+        <p><small>Playwright</small></p>
     </td>
     <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="50" />
