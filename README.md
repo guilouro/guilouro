@@ -1,9 +1,9 @@
 # 👋  Hi there!
 
-### My name is Guilherme Louro! I'm a Senior Software Engineer
+### My name is Guilherme Louro! I'm a Staff Software Engineer
 
 - 🏡 Brazilian, Based in Petrópolis, RJ
-- 💻 Senior Software Engineer
+- 💻 Staff Software Engineer
 - ⚛️ Instructor in **[Udemy](https://www.udemy.com/user/guilherme-louro/)**
 - 📝 [Resume](https://github.com/guilouro/resume/blob/master/README.md)
 
