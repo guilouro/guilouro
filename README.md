@@ -43,47 +43,47 @@ I design frontend architecture that lets many teams ship independently, and I st
 
 <p>
   <samp>frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp>
-  <img src="assets/stack/typescript.svg" width="40" alt="TypeScript" title="TypeScript">
-  <img src="assets/stack/javascript.svg" width="40" alt="JavaScript" title="JavaScript">
-  <img src="assets/stack/react.svg" width="40" alt="React" title="React">
-  <img src="assets/stack/nextjs.svg" width="40" alt="Next.js" title="Next.js">
-  <img src="assets/stack/redux.svg" width="40" alt="Redux" title="Redux">
-  <img src="assets/stack/tailwind.svg" width="40" alt="Tailwind CSS" title="Tailwind CSS">
-  <img src="assets/stack/styled-components.svg" width="40" alt="Styled Components" title="Styled Components">
+  <img src="assets/stack/typescript.svg" width="40" align="absmiddle" alt="TypeScript" title="TypeScript">
+  <img src="assets/stack/javascript.svg" width="40" align="absmiddle" alt="JavaScript" title="JavaScript">
+  <img src="assets/stack/react.svg" width="40" align="absmiddle" alt="React" title="React">
+  <img src="assets/stack/nextjs.svg" width="40" align="absmiddle" alt="Next.js" title="Next.js">
+  <img src="assets/stack/redux.svg" width="40" align="absmiddle" alt="Redux" title="Redux">
+  <img src="assets/stack/tailwind.svg" width="40" align="absmiddle" alt="Tailwind CSS" title="Tailwind CSS">
+  <img src="assets/stack/styled-components.svg" width="40" align="absmiddle" alt="Styled Components" title="Styled Components">
 </p>
 <p>
   <samp>backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp>
-  <img src="assets/stack/nodejs.svg" width="40" alt="Node.js" title="Node.js">
-  <img src="assets/stack/python.svg" width="40" alt="Python" title="Python">
-  <img src="assets/stack/django.svg" width="40" alt="Django" title="Django">
-  <img src="assets/stack/fastapi.svg" width="40" alt="FastAPI" title="FastAPI">
-  <img src="assets/stack/graphql.svg" width="40" alt="GraphQL" title="GraphQL">
+  <img src="assets/stack/nodejs.svg" width="40" align="absmiddle" alt="Node.js" title="Node.js">
+  <img src="assets/stack/python.svg" width="40" align="absmiddle" alt="Python" title="Python">
+  <img src="assets/stack/django.svg" width="40" align="absmiddle" alt="Django" title="Django">
+  <img src="assets/stack/fastapi.svg" width="40" align="absmiddle" alt="FastAPI" title="FastAPI">
+  <img src="assets/stack/graphql.svg" width="40" align="absmiddle" alt="GraphQL" title="GraphQL">
 </p>
 <p>
   <samp>data&nbsp;&amp;&nbsp;infra&nbsp;</samp>
-  <img src="assets/stack/postgres.svg" width="40" alt="PostgreSQL" title="PostgreSQL">
-  <img src="assets/stack/mysql.svg" width="40" alt="MySQL" title="MySQL">
-  <img src="assets/stack/redis.svg" width="40" alt="Redis" title="Redis">
-  <img src="assets/stack/rabbitmq.svg" width="40" alt="RabbitMQ" title="RabbitMQ">
-  <img src="assets/stack/docker.svg" width="40" alt="Docker" title="Docker">
-  <img src="assets/stack/aws.svg" width="40" alt="AWS" title="AWS">
-  <img src="assets/stack/cloudflare.svg" width="40" alt="Cloudflare" title="Cloudflare">
-  <img src="assets/stack/github-actions.svg" width="40" alt="GitHub Actions" title="GitHub Actions">
+  <img src="assets/stack/postgres.svg" width="40" align="absmiddle" alt="PostgreSQL" title="PostgreSQL">
+  <img src="assets/stack/mysql.svg" width="40" align="absmiddle" alt="MySQL" title="MySQL">
+  <img src="assets/stack/redis.svg" width="40" align="absmiddle" alt="Redis" title="Redis">
+  <img src="assets/stack/rabbitmq.svg" width="40" align="absmiddle" alt="RabbitMQ" title="RabbitMQ">
+  <img src="assets/stack/docker.svg" width="40" align="absmiddle" alt="Docker" title="Docker">
+  <img src="assets/stack/aws.svg" width="40" align="absmiddle" alt="AWS" title="AWS">
+  <img src="assets/stack/cloudflare.svg" width="40" align="absmiddle" alt="Cloudflare" title="Cloudflare">
+  <img src="assets/stack/github-actions.svg" width="40" align="absmiddle" alt="GitHub Actions" title="GitHub Actions">
 </p>
 <p>
   <samp>testing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp>
-  <img src="assets/stack/jest.svg" width="40" alt="Jest" title="Jest">
-  <img src="assets/stack/vitest.svg" width="40" alt="Vitest" title="Vitest">
-  <img src="assets/stack/cypress.svg" width="40" alt="Cypress" title="Cypress">
-  <img src="assets/stack/playwright.svg" width="40" alt="Playwright" title="Playwright">
+  <img src="assets/stack/jest.svg" width="40" align="absmiddle" alt="Jest" title="Jest">
+  <img src="assets/stack/vitest.svg" width="40" align="absmiddle" alt="Vitest" title="Vitest">
+  <img src="assets/stack/cypress.svg" width="40" align="absmiddle" alt="Cypress" title="Cypress">
+  <img src="assets/stack/playwright.svg" width="40" align="absmiddle" alt="Playwright" title="Playwright">
 </p>
 <p>
   <samp>ai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp>
-  <img src="assets/stack/openai.svg" width="40" alt="OpenAI" title="OpenAI">
-  <img src="assets/stack/claude.svg" width="40" alt="Claude" title="Claude">
-  <img src="assets/stack/crewai.svg" width="40" alt="CrewAI" title="CrewAI">
-  <img src="assets/stack/langchain.svg" width="40" alt="LangChain" title="LangChain">
-  <img src="assets/stack/mcp.svg" width="40" alt="Model Context Protocol" title="Model Context Protocol">
+  <img src="assets/stack/openai.svg" width="40" align="absmiddle" alt="OpenAI" title="OpenAI">
+  <img src="assets/stack/claude.svg" width="40" align="absmiddle" alt="Claude" title="Claude">
+  <img src="assets/stack/crewai.svg" width="40" align="absmiddle" alt="CrewAI" title="CrewAI">
+  <img src="assets/stack/langchain.svg" width="40" align="absmiddle" alt="LangChain" title="LangChain">
+  <img src="assets/stack/mcp.svg" width="40" align="absmiddle" alt="Model Context Protocol" title="Model Context Protocol">
 </p>
 
 <br>
